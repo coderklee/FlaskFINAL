@@ -1,0 +1,31 @@
+*,*:before,*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+body{
+    padding-top: 50px;
+}
+
+#base_img{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+}
+
+#profile_img{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+}
+
+#topnav{
+	background-color: rgb(244, 130, 8)
+}
+
+#background{
+    background-color: blue;
+}
